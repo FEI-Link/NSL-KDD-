@@ -1,0 +1,52 @@
+{
+  "Normal": [
+    "normal"
+  ],
+  "DoS": [
+    "back",
+    "land",
+    "neptune",
+    "pod",
+    "smurf",
+    "teardrop",
+    "apache2",
+    "udpstorm",
+    "processtable",
+    "worm"
+  ],
+  "R2L": [
+    "ftp_write",
+    "guess_passwd",
+    "imap",
+    "multihop",
+    "phf",
+    "spy",
+    "warezclient",
+    "warezmaster",
+    "snmpgetattack",
+    "snmpguess",
+    "named"
+  ],
+  "U2R": [
+    "buffer_overflow",
+    "loadmodule",
+    "perl",
+    "rootkit",
+    "sqlattack",
+    "xterm",
+    "ps"
+  ],
+  "Probe": [
+    "ipsweep",
+    "nmap",
+    "portsweep",
+    "saint",
+    "satan",
+    "mscan",
+    "httptunnel",
+    "ftp_port",
+    "snmpget",
+    "snmpwalk",
+    "worm"
+  ]
+}
